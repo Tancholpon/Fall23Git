@@ -3,3 +3,4 @@ public class MondayClassPart2 {
         System.out.println("Hello Monday Part 2");
     }
 }
+
